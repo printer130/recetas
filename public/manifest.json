@@ -5,13 +5,19 @@
     {
       "src": "/icon.png",
       "sizes": "512*512",
+      "type": "image/png",
+      "purpose":"any maskable"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "144*144",
       "type": "image/png"
     }
   ],
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "theme_color": "#ffa500",
+  "theme_color": "#0000ff",
   "background_color": "#ffffff",
   "related applications": [],
   "prefer_related_applications": false
